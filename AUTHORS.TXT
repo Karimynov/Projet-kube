@@ -1,0 +1,14 @@
+Authors.txt
+
+Author 1: Karim BENHAMA
+Author 2: NULL
+
+Conteneurisation : Karim BENHAMA
+Hébergement : Karim BENHAMA
+Performance/Optimisation : Karim BENHAMA
+Bilan de santé : Karim BENHAMA
+Sécurité : NULL
+Logs : Karim BENHAMA
+Déploiement continu : NULL
+
+Présentation : Karim BENHAMA
