@@ -112,11 +112,11 @@ spec:
           requests:
             memory: "1.5G"
             cpu: "0.5"
-        env:
-        - name: "SA_PASSWORD"
-          value: "Pass@word"
-        - name: "ACCEPT_EULA"
-          value: "Y"
+        env:  #                   Inutile
+        - name: "SA_PASSWORD" #   Inutile
+          value: "Pass@word" #    Initule
+        - name: "ACCEPT_EULA" #   Useless
+          value: "Y" #            Inutile
         ports:
         - containerPort: 1433
           name: mssql
